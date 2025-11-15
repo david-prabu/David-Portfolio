@@ -1,0 +1,82 @@
+{
+    "general": {
+        "name": "David Prabu",
+        "headline": "React Js Developer",
+        "about": [
+            "Hey Folks 🖖",
+            "I'm a Frontend / React.js Developer with 4+ years of experience in developing responsive and scalable web applications.",
+            "Skilled in React.js, Redux, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Material-UI, REST API integration, and Git. Strong focus on writing clean, maintainable, and efficient code with modern front-end technologies."
+        ],
+        "socials": {
+            "resume": "https://drive.google.com/file/d/1vv_uOOZbnFG8e5CkUoAcZbJgAF4EHsXK/view?usp=sharing",
+            "email": "davidprabu162@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/davidprabu/",
+            "github": "https://github.com/david-prabu"
+        }
+    },
+    "experiences": [
+        {
+            "title": "Position Title",
+            "company": "Company Name",
+            "href": "",
+            "startDate": "10/2023",
+            "endDate": "CURRENT",
+            "description": "This is a short description of your role.",
+            "logo": "/logos/vercel-white.png",
+            "skills": [
+                "Skill 1",
+                "Skill 2",
+                "Skill 3"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "subject": "University Subject",
+            "degree": "Master of Science",
+            "university": "University Name",
+            "href": "",
+            "startDate": "2022",
+            "endDate": "NOW",
+            "description": "Short description of your degree."
+        }
+    ],
+    "volunteering": [
+        {
+            "position": "Position Name",
+            "event": "Event Name",
+            "organisation": "Organisation Name",
+            "href": "",
+            "startDate": "2022",
+            "endDate": "NOW",
+            "description": "Short description of your role at the event."
+        },
+        {
+            "position": "Position Name",
+            "event": "Event Name",
+            "organisation": "Organisation Name",
+            "href": "",
+            "startDate": "2022",
+            "endDate": "NOW",
+            "description": "Short description of your role at the event."
+        },
+        {
+            "position": "Position Name",
+            "event": "Event Name",
+            "organisation": "Organisation Name",
+            "href": "",
+            "startDate": "2022",
+            "endDate": "NOW",
+            "description": "Short description of your role at the event."
+        }
+    ],
+    "projects": [
+        {
+            "name": "example-project",
+            "framework": "javascript",
+            "description": "Short description of your project.",
+            "href": "",
+            "stars": "2,712"
+        }
+    ]
+}
