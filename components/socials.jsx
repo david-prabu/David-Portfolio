@@ -31,13 +31,14 @@ const Socials = (props) => {
           rel="noopener noreferrer"
           className="mr-5 flex flex-row content-center justify-center"
         >
-          <Image
+          <img
             src="/logos/github-mark-white.png"
             alt="GitHub Logo"
             width={20}
             height={20}
             className="object-contain object-top mr-2"
           />
+          
           <div className="">GitHub</div>
         </a>
         <a
