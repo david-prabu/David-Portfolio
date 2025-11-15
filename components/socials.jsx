@@ -47,7 +47,7 @@ const Socials = (props) => {
           rel="noopener noreferrer"
           className="flex flex-row content-center justify-center"
         >
-          <Image
+          <img
             src="/logos/linkedin-mark-white.png"
             alt="LinkedIn Logo"
             width={20}
